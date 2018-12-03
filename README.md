@@ -1,2 +1,2 @@
 # Single-Phase-SPWM-Inverter
-> Inversor monofásico utilizando a técnica SPWM gerado no STM32F446.
+> Inversor monofásico utilizando SPWM gerado no STM32F446.
